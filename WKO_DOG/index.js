@@ -1,5 +1,3 @@
-document.getElementsByTagName('Text_1')[0].style.fontSize = '6vw';
-document.getElementsByTagName('Text_2')[0].style.fontSize = '6vw';
 
 function readURL(input) {
     if (input.files && input.files[0]) {
