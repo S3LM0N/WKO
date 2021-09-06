@@ -1,6 +1,8 @@
 
     WKO
-
+     
+    Now published at https://www.whatkindofdog.xyz/
+    
     ccc1004200@naver.com
     rhdqnzld2@gmail.com
  
