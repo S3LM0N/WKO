@@ -1,35 +1,17 @@
-# WKO
-    WKO
-     
-    Now published at https://www.whatkindofdog.xyz/
-    
-    ccc1004200@naver.com
-    rhdqnzld2@gmail.com
- 
-    Copyright (c) 2021, Yeonwoo Kim
-    All rights reserved. 
- 
-    Redistribution and use in source and binary forms, with or without  
-    modification, are permitted provided that the following conditions are  
-    met: 
- 
-        * Redistributions of source code must retain the above copyright  
-        notice, this list of conditions and the following disclaimer. 
-        * Redistributions in binary form must reproduce the above copyright  
-        notice, this list of conditions and the following disclaimer in the  
-        documentation and/or other materials provided with the distribution. 
-        * Neither the name of the <ORGANIZATION> nor the names of its  
-        contributors may be used to endorse or promote products derived from  
-        this software without specific prior written permission. 
- 
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS  
-    IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED  
-    TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A  
-    PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER  
-    OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,  
-    EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,  
-    PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR  
-    PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF  
-    LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING  
-    NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS  
-    SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+# WKO (What Kind Of X?)
+
+**![IMAGE](https://raw.githubusercontent.com/S3LM0N/WKO/main/WKO_DOG/Fav.ico)**  
+
+구글의 Teachable Machine 을 활용한 개 종류 구분사이트입니다.
+
+## License
+
+This project is licensed under the MIT License
+
+이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
+
+## Acknowledgments
+
+* Thanks to Bohemia https://teachablemachine.withgoogle.com/
+
+* 본 프로젝트는 고등학생 때 완성한 프로젝트이기 때문에 최적화/안정성 문제가 여전히 있을 수 있습니다.
